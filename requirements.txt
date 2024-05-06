@@ -23,7 +23,6 @@ pyparsing
 python-dateutil
 pytz
 scikit-learn
-guinicorn
 scipy
 six
 sounddevice
