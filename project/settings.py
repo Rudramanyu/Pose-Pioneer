@@ -31,7 +31,7 @@ AUTH_USER_MODEL = 'app.AppUser'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pose-pioneer.onrender.com']
 
 
 # Application definition
